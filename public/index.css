@@ -1,0 +1,16 @@
+.about{
+    background-color: #f9c49a;
+    margin: auto;
+}
+
+.header{
+    background-color: #e8e4e1;
+}
+
+.profile{
+    border-color: #FFF;
+    border-radius: 25%;
+    border-style: solid;
+    height: 400px;
+
+}
