@@ -1,6 +1,6 @@
 .about{
     background-color: #f9c49a;
-    margin: auto;
+    color: #7c3c21;
 }
 
 .header{
@@ -8,9 +8,8 @@
 }
 
 .profile{
-    border-color: #FFF;
+    border-color: #7c3c21;
     border-radius: 25%;
     border-style: solid;
-    height: 400px;
-
+    height: 300px;
 }
