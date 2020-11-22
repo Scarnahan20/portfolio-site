@@ -3,8 +3,18 @@
     color: #7c3c21;
 }
 
+.education{
+    background-color: #ec823a;
+    color: #7c3c21;
+}
+
 .header{
     background-color: #e8e4e1;
+}
+
+.intro{
+    align-items: center;
+    display: flex;
 }
 
 .profile{

@@ -4,7 +4,6 @@ import { Nav, Navbar } from 'react-bootstrap';
 function Header() {
     return (
         <Navbar className="header" bg="light" expand="lg">
-            <Navbar.Brand>Stefan Carnahan</Navbar.Brand>
             <Navbar.Toggle aria-controls="main-navbar-nav" />
             <Navbar.Collapse className="justify-content-end" id="main-navbar-nav">
                 <Nav.Link href="#about">About</Nav.Link>
