@@ -3,10 +3,10 @@ import { Card, CardDeck, Container } from 'react-bootstrap';
 
 function Education() {
     return (
-        <Container fluid className="education">
+        <Container fluid className="education p-4">
             <h1>Education</h1>
             <CardDeck>
-                <Card bg="#f9c49a">
+                <Card>
                     <Card.Body>
                         <Card.Title>San Diego State University</Card.Title>
                         <Card.Text>Graduated May 2020</Card.Text>
@@ -25,6 +25,7 @@ function Education() {
                     </Card.Body>
                 </Card>
             </CardDeck>
+            <br />
         </Container>
     );
 }
