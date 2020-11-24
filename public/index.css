@@ -8,6 +8,12 @@
     color: #7c3c21;
 }
 
+.education-img{
+    opacity: 0.3;
+    max-height: 250px;
+    width: auto;
+}
+
 .header{
     background-color: #e8e4e1;
 }
